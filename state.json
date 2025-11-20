@@ -1,0 +1,12 @@
+{
+  "listing_details": "2 bed 1 bath apartment. Check-in after 3pm, quiet hours after 10pm, no parties, no smoking, street parking only, keypad entry.",
+  "conversations": [
+    {
+      "timestamp": "2025-11-19T21:49:27",
+      "guest_message": "Hey! We’re thinking of staying this weekend. Could we check in at noon and have a few friends over for drinks and music?\r\n",
+      "reply": "Hi there!\n\nThanks for reaching out!\n\nRegarding check-in, it's set for after 3 PM. We unfortunately can't accommodate a noon check-in this weekend.\n\nAlso, just a heads up that we have a strict no parties policy, so having friends over for drinks and music wouldn't be possible.\n\nLet us know if you have any other questions!",
+      "tone": "friendly",
+      "template_type": "normal"
+    }
+  ]
+}
