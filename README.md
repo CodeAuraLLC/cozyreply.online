@@ -1,2 +1,2 @@
-# CozyReply.AI
-# CozyReply.AI
+# cozyreply.online
+# cozyreply.online
